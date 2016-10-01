@@ -1,0 +1,42 @@
+<html>
+
+<u>
+<font color="white">E</font>
+<font color="red">V</font>
+<font color="green">R</font>
+<font color="blue">Y</font>
+<font color="yellow">B</font>
+<font color="purple">O</font>
+<font color="blue">D</font>
+<font color="#4682B4">Y</font>
+</u> <u> 
+<font color="#FA8072">L</font>
+<font color="#AFEEEE">O</font>
+<font color="#90FF6B">V</font>
+<font color="#95D8FF">E</font>
+<font color="#C06000">S</font>
+</u> <u> 
+<font color="#D000B6">C</font>
+<font color="#6B7DFF">O</font>
+<font color="#7BBA92">L</font>
+<font color="#FF6BED">O</font>
+<font color="#FFFF55">R</font>
+<font color="#FF40A0">!</font>
+<font color="#F0D200">!</font>
+<font color="#508000">!</font>
+</u>
+
+<font color="white">
+more text... more longer text!!! 
+  <b>
+    Bold text
+  </b>
+  <i>
+    or Italic text?
+  </i>
+SPPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMMMM!!!!!!!!!!!!!!!!
+ space test?
+THIS IS A VERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRYYYYY LONG TEXT  </font>
+<font color="green">I got bored of white, how's green?</font>
+
+</html>
